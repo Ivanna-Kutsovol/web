@@ -1,0 +1,27 @@
+header{
+    background: liner-gradient(#FFFAFA, #FAEBD7);
+}
+
+body{
+   font-family: 'Oswald', sans-serif;
+}
+
+ul{
+  list-style: none;
+  marin: 0;
+  padding: 20px;
+}
+
+a{
+   font-size: 30px;
+   padding: 20px;
+   color: #293133;
+   text-decoration: none;
+}
+a:hover{
+   color: #FFCF48;
+   text_decoration: none;
+}
+li{
+   display: inline;
+}
